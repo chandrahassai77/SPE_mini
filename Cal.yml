@@ -1,0 +1,12 @@
+---
+- name: pull mini_project image
+  hosts: all
+  tasks:
+          - name: Pull junit devops image 
+            docker_image:
+                  name: chandrahassai77/scicalculator
+                  source: pull
+
+            
+          - name: creating updated container
+            shell: docker run -id chandrahassai77/scicalculator
