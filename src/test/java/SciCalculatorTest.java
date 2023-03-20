@@ -90,6 +90,18 @@ public class SciCalculatorTest {
 
     }
 
+    @Test
+    public void testPowerFunction3() {
+        double base = 2;
+        double exponent = 5;
+        double expected = 44;
+        double result = SciCalculator.Power(base, exponent);
+        assertNotEquals(expected, result, 0.0001);
+        System.out.println("In test Power valid = "+expected+" "+result);
+
+    }
+
+
 }
 
 
