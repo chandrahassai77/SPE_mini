@@ -56,17 +56,33 @@ public class SciCalculator {
 
     public static int factorial(int n) {
 
+        if(n<0)
+        {
+            logger.error("[FACTORIAL] - " + n + " is not defined.");
+            logger.error("[RESULT - FACTORIAL] - " + "-1");
+
+            return -1;
+        }
+
         int res = 1;
         for(int i=1; i<=n; i++)
         {
             res = res * i;
         }
-        logger.info("[FACTORIAL] - " + n);
-        logger.info("[RESULT - FACTORIAL] - " + res);
+        logger.error("[FACTORIAL] - " + n);
+        logger.error("[RESULT - FACTORIAL] - " + res);
         return res;
 
     }
     public static double SquareRoot(double n) {
+
+        if(n<0)
+        {
+            logger.error("[SQRT] - " + n + " is not defined");
+            logger.error("[RESULT - SQRT] - " + "-1");
+
+            return -1;
+        }
 
         double tmp = Math.sqrt(n);
         logger.info("[SQRT] - " + n);
@@ -75,6 +91,13 @@ public class SciCalculator {
 
     }
     public static double Natural_Log(double n) {
+
+        if(n<=0)
+        {
+            logger.error("[LOG] - "+ n+" is not defined");
+            logger.error("[RESULT - LOG] - "+"-1");
+            return -1;
+        }
 
         double temp = Math.log(n);
 
@@ -86,6 +109,14 @@ public class SciCalculator {
     }
 
     public static double Power(double base, double exponent) {
+
+        if(base == 0 && exponent == 0)
+        {
+            logger.error("[POWER] - " + base + ", " + exponent + "is not defined");
+            logger.error("[RESULT - POWER] - " + "-1");
+
+            return -1;
+        }
 
         double temp = Math.pow(base, exponent);
         logger.info("[POWER] - " + base + ", " + exponent);

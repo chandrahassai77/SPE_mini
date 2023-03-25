@@ -60,10 +60,10 @@ public class SciCalculatorTest {
 
     @Test
     public void testFactorialFunction2() {
-        int num = 5;
-        int expected = 190;
+        int num = -2;
+        int expected = -1;
         int result = SciCalculator.factorial(num);
-        assertNotEquals(expected, result);
+        assertEquals(expected, result);
         System.out.println("In test Fact valid = "+expected+" "+result);
 
     }

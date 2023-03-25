@@ -32,3 +32,29 @@
 21/03/2023:00:25:28 320 [SciCalculator.java] [INFO] SciCalculator [RESULT - POWER] - 32.0
 21/03/2023:00:25:28 321 [SciCalculator.java] [INFO] SciCalculator [POWER] - 2.0, 5.0
 21/03/2023:00:25:28 321 [SciCalculator.java] [INFO] SciCalculator [RESULT - POWER] - 32.0
+21/03/2023:22:49:52 916 [SciCalculator.java] [INFO] SciCalculator [SQRT] - 49.0
+21/03/2023:22:49:52 932 [SciCalculator.java] [INFO] SciCalculator [RESULT - SQRT] - 7.0
+21/03/2023:22:50:02 233 [SciCalculator.java] [INFO] SciCalculator [FACTORIAL] - 5
+21/03/2023:22:50:02 234 [SciCalculator.java] [INFO] SciCalculator [RESULT - FACTORIAL] - 120
+21/03/2023:22:50:09 227 [SciCalculator.java] [INFO] SciCalculator [LOG] - 7.0
+21/03/2023:22:50:09 228 [SciCalculator.java] [INFO] SciCalculator [RESULT - LOG] - 1.9459101490553132
+21/03/2023:22:50:15 783 [SciCalculator.java] [INFO] SciCalculator [POWER] - 4.0, 3.0
+21/03/2023:22:50:15 783 [SciCalculator.java] [INFO] SciCalculator [RESULT - POWER] - 64.0
+25/03/2023:22:13:09 852 [SciCalculator.java] [INFO] SciCalculator [SQRT] - 25.0
+25/03/2023:22:13:09 886 [SciCalculator.java] [INFO] SciCalculator [RESULT - SQRT] - 5.0
+25/03/2023:22:13:09 895 [SciCalculator.java] [INFO] SciCalculator [SQRT] - 144.0
+25/03/2023:22:13:09 895 [SciCalculator.java] [INFO] SciCalculator [RESULT - SQRT] - 12.0
+25/03/2023:22:13:09 896 [SciCalculator.java] [ERROR] SciCalculator [FACTORIAL] - 5
+25/03/2023:22:13:09 897 [SciCalculator.java] [ERROR] SciCalculator [RESULT - FACTORIAL] - 120
+25/03/2023:22:13:09 901 [SciCalculator.java] [ERROR] SciCalculator [FACTORIAL] - -2 is not defined.
+25/03/2023:22:13:09 902 [SciCalculator.java] [ERROR] SciCalculator [RESULT - FACTORIAL] - -1
+25/03/2023:22:13:09 903 [SciCalculator.java] [INFO] SciCalculator [LOG] - 2.71828
+25/03/2023:22:13:09 904 [SciCalculator.java] [INFO] SciCalculator [RESULT - LOG] - 0.999999327347282
+25/03/2023:22:13:09 905 [SciCalculator.java] [INFO] SciCalculator [LOG] - 2.71828
+25/03/2023:22:13:09 906 [SciCalculator.java] [INFO] SciCalculator [RESULT - LOG] - 0.999999327347282
+25/03/2023:22:13:09 907 [SciCalculator.java] [INFO] SciCalculator [POWER] - 2.0, 5.0
+25/03/2023:22:13:09 907 [SciCalculator.java] [INFO] SciCalculator [RESULT - POWER] - 32.0
+25/03/2023:22:13:09 908 [SciCalculator.java] [INFO] SciCalculator [POWER] - 2.0, 5.0
+25/03/2023:22:13:09 908 [SciCalculator.java] [INFO] SciCalculator [RESULT - POWER] - 32.0
+25/03/2023:22:13:09 909 [SciCalculator.java] [INFO] SciCalculator [POWER] - 2.0, 5.0
+25/03/2023:22:13:09 909 [SciCalculator.java] [INFO] SciCalculator [RESULT - POWER] - 32.0
