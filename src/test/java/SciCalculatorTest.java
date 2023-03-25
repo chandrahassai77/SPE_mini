@@ -73,7 +73,7 @@ public class SciCalculatorTest {
         double num = 2.71828;
         double expected = 4;
         double result = SciCalculator.Natural_Log(num);
-        
+
         assertNotEquals(expected, result, 0.0001);
 
         System.out.println("In test N valid = "+expected+" "+result);
