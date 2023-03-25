@@ -9,4 +9,4 @@
 
             
           - name: creating updated container
-            shell: docker run -id chandrahassai77/scicalculator /bin/bash
+            shell: docker run -it -d chandrahassai77/scicalculator /bin/bash
