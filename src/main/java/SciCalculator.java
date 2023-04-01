@@ -11,6 +11,8 @@ public class SciCalculator {
         Scanner input = new Scanner(System.in);
 
         while (true) {
+
+            
             //System.out.println("\nWelcome!\n");
 
             System.out.println("\nCalculator Menu");
