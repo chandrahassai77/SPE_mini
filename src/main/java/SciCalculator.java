@@ -12,8 +12,10 @@ public class SciCalculator {
 
         while (true) {
 
-            
+
             //System.out.println("\nWelcome!\n");
+
+            
 
             System.out.println("\nCalculator Menu");
             System.out.println("1. Square root function");
