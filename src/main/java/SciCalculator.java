@@ -76,7 +76,7 @@ public class SciCalculator {
         }
         logger.error("[FACTORIAL] - " + n);
         logger.error("[RESULT - FACTORIAL] - " + res);
-        
+
         return res;
 
     }
@@ -94,6 +94,8 @@ public class SciCalculator {
         logger.info("[SQRT] - " + n);
         logger.info("[RESULT - SQRT] - " + tmp);
         return tmp;
+
+        
 
     }
     public static double Natural_Log(double n) {
