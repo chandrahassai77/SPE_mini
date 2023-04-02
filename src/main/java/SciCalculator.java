@@ -68,7 +68,7 @@ public class SciCalculator {
             return -1;
         }
 
-        
+
         int res = 1;
         for(int i=1; i<=n; i++)
         {
@@ -76,6 +76,7 @@ public class SciCalculator {
         }
         logger.error("[FACTORIAL] - " + n);
         logger.error("[RESULT - FACTORIAL] - " + res);
+        
         return res;
 
     }
