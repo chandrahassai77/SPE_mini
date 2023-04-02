@@ -15,7 +15,7 @@ public class SciCalculator {
 
             //System.out.println("\nWelcome!\n");
 
-            
+
 
             System.out.println("\nCalculator Menu");
             System.out.println("1. Square root function");
@@ -68,6 +68,7 @@ public class SciCalculator {
             return -1;
         }
 
+        
         int res = 1;
         for(int i=1; i<=n; i++)
         {

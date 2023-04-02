@@ -1,0 +1,24 @@
+01/04/2023:17:13:22 380 [SciCalculator.java] [ERROR] SciCalculator [FACTORIAL] - -1 is not defined.
+01/04/2023:17:13:22 384 [SciCalculator.java] [ERROR] SciCalculator [RESULT - FACTORIAL] - -1
+01/04/2023:17:13:29 291 [SciCalculator.java] [INFO] SciCalculator [POWER] - 2.0, 4.0
+01/04/2023:17:13:29 293 [SciCalculator.java] [INFO] SciCalculator [RESULT - POWER] - 16.0
+01/04/2023:17:13:51 922 [SciCalculator.java] [INFO] SciCalculator [SQRT] - 9.0
+01/04/2023:17:13:51 923 [SciCalculator.java] [INFO] SciCalculator [RESULT - SQRT] - 3.0
+01/04/2023:17:14:17 571 [SciCalculator.java] [ERROR] SciCalculator [FACTORIAL] - 5
+01/04/2023:17:14:17 572 [SciCalculator.java] [ERROR] SciCalculator [RESULT - FACTORIAL] - 120
+01/04/2023:17:14:22 615 [SciCalculator.java] [ERROR] SciCalculator [SQRT] - -5.0 is not defined
+01/04/2023:17:14:22 615 [SciCalculator.java] [ERROR] SciCalculator [RESULT - SQRT] - -1
+01/04/2023:17:14:39 150 [SciCalculator.java] [INFO] SciCalculator [LOG] - 5.0
+01/04/2023:17:14:39 151 [SciCalculator.java] [INFO] SciCalculator [RESULT - LOG] - 1.6094379124341003
+01/04/2023:17:14:45 236 [SciCalculator.java] [INFO] SciCalculator [LOG] - 9.0
+01/04/2023:17:14:45 237 [SciCalculator.java] [INFO] SciCalculator [RESULT - LOG] - 2.1972245773362196
+01/04/2023:17:15:02 448 [SciCalculator.java] [INFO] SciCalculator [POWER] - 5.0, 2.0
+01/04/2023:17:15:02 449 [SciCalculator.java] [INFO] SciCalculator [RESULT - POWER] - 25.0
+01/04/2023:17:15:13 945 [SciCalculator.java] [INFO] SciCalculator [SQRT] - 25.0
+01/04/2023:17:15:13 945 [SciCalculator.java] [INFO] SciCalculator [RESULT - SQRT] - 5.0
+01/04/2023:17:15:18 508 [SciCalculator.java] [ERROR] SciCalculator [FACTORIAL] - 9
+01/04/2023:17:15:18 509 [SciCalculator.java] [ERROR] SciCalculator [RESULT - FACTORIAL] - 362880
+01/04/2023:17:15:22 842 [SciCalculator.java] [INFO] SciCalculator [LOG] - 10.0
+01/04/2023:17:15:22 843 [SciCalculator.java] [INFO] SciCalculator [RESULT - LOG] - 2.302585092994046
+01/04/2023:17:15:27 038 [SciCalculator.java] [INFO] SciCalculator [POWER] - 4.0, 3.0
+01/04/2023:17:15:27 039 [SciCalculator.java] [INFO] SciCalculator [RESULT - POWER] - 64.0
